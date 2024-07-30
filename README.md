@@ -1,2 +1,2 @@
-# pwa-project
-Only for PWA web practices
+# PWA Page
+Only for PWA page practices
